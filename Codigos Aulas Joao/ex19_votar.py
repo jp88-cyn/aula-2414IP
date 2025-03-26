@@ -7,5 +7,8 @@ if idade  >=18:
 elif idade <=17 or 17:
     print("Voce nao esta permitido a Votar!")
 
+elif idade <=0 or 0:
+    print("Idade abaixo da permitida para existir.")
+
 else:
     print("Invalido.")
