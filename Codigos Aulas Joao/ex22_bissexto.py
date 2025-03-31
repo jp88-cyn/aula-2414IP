@@ -12,4 +12,4 @@ elif ano_bissexto <=400:
 else:
     print("Invalido.")
 
-# eu nao terminei esse, Tenta em casa lil bro >:)
+# eu nao terminei esse, Tenta em casa lil bro >:) ( GET OUT!!! )
