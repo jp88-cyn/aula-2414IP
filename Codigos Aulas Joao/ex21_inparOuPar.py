@@ -2,7 +2,6 @@
 print("Mostre um numero abaixo e direi se é Impar ou Par.")
 
 numero = int(input("Numero escolhido: "))
-
 definiçao_numero = numero / 2
 
 if definiçao_numero == 0:
