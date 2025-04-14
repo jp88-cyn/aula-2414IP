@@ -10,3 +10,4 @@ if anos_trabalhando <= 3:
 elif anos_trabalhando >= 3 or 3 or anos_trabalhando <= 10:
     subtraçao_salario = (salario * 0.12 ) / 100
     print(f"Seu Salario de {salario} agora teve um aumento de 12.5%, agora é {subtraçao_salario}. ")
+    
