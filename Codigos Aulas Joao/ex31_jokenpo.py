@@ -9,13 +9,13 @@ while True:
 
     escolha_pc = random_integer = random.randint(1, 3)
 
-    if escolha_jogador == Papel and escolha_pc == 2:
+    if escolha_jogador == "Papel" and escolha_pc == 2:
         print(f"Empate. Pois os dois escolheram a mesma opçao.")
 
-    elif escolha_jogador == Tesoura and escolha_pc == 1:
+    elif escolha_jogador == "Tesoura" and escolha_pc == 1:
         print(f"Empate. Pois os dois escolheram a mesma opçao.")
 
-    elif escolha_jogador == Pedra and escolha_pc == 3:
+    elif escolha_jogador == "Pedra" and escolha_pc == 3:
         print(f"Empate. Pois os dois escolheram a mesma opçao.")
 
     elif escolha_jogador == "Tesoura" and escolha_pc == 2:
