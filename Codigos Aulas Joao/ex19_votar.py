@@ -12,3 +12,4 @@ elif idade <=0 or 0:
 
 else:
     print("Invalido.")
+

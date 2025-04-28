@@ -26,4 +26,9 @@ if genero == "Feminino" or "F":
 
     
 elif genero == "Masculino" or "M":
+
     subtraçao = salario_atual
+    divisao = salario_atual - 0.12
+    aumento_final = divisao * 100
+    print(f"Voce teve um aumento de  ")
+
